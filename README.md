@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohammadali Jafari
+- 👋 Hi, I’m Mohammadali Jafari a Python Programmer
 - 👀 I’m interested in Web developing 
 - 🌱 I’m currently learning Python , Git , Django
 - 💞️ I’m looking to collaborate on Django Projects
